@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anikkazi14@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kazi-anik-7a2978172/](https://www.linkedin.com/in/kazi-anik-islam-7a2978172)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/kazi-anik-islam-7a2978172)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
