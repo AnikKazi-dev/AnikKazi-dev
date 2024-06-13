@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kazi-anik-7a2978172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kazi-anik-7a2978172/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kazi-anik-islam-7a2978172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kazi-anik-islam-7a2978172" height="30" width="40" /></a>
 <a href="https://fb.com/anik.kazi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik.kazi2" height="30" width="40" /></a>
 <a href="https://instagram.com/anik_kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anik_kazi" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/420208161127923715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GhostKazi#2147" height="30" width="40" /></a>
